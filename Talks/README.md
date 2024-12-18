@@ -1,1 +1,1 @@
-Presentations from Adversary Village at DEF CON 32
+Creator stage presentations from Adversary Village at DEF CON 32
